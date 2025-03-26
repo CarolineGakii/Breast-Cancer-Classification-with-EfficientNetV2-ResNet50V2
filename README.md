@@ -77,5 +77,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-*For a detailed analysis and insights, refer to the original article: [EfficientNetV2 vs. ResNet50V2: Which Model Excels in Cancer Image Classification?](https://www.linkedin.com/pulse/efficientnetv2-vs-resnet50v2-which-model-excels-cancer-caroline-gakii-hu1gf/)*
+
 
